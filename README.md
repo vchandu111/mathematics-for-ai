@@ -1,4 +1,6 @@
 # Mathematics-for-AI — 7-Day Beginner Roadmap
+<img width="1584" height="396" alt="maths" src="https://github.com/user-attachments/assets/af660324-b183-4ef3-9fe7-72f9b51b4a11" />
+
 
 A comprehensive mathematics foundation designed specifically for AI/ML learners. This repository provides a structured 7-day learning path covering essential mathematical concepts that form the backbone of artificial intelligence and machine learning algorithms.
 
